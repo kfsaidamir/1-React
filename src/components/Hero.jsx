@@ -11,7 +11,7 @@ const Hero = () => {
       position={"relative"}
       w={"100%"}
       h={"70vh"}
-      bgImage={"url(public/bgck.png)"}
+      bgImage={"url(/bgck.png)"}
       bgRepeat={"no-repeat"}
       bgSize={"cover"}
       bgPosition={"center"}
